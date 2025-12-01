@@ -1,9 +1,15 @@
 
-The aim of the E-commerce Sales Dashboard project was to provide a comprehensive perspective on e-commerce sales performance. This was achieved by creating interactive and visually captivating dashboards using Power BI. These dashboards were tailored to carefully scrutinize and monitor vital Year-to-Date (YTD) metrics, including profit, quantity, profit margin, and sales trends. Leveraging data sourced from the e-commerce platform, these dashboards empowered stakeholders to make well-informed decisions, pinpoint growth opportunities, and assess the effectiveness of their marketing campaigns.
+Ecommerce Sales Dashboard
 
-Tools Used
+The E-commerce Sales Dashboard project aims to provide a comprehensive view of e-commerce sales performance. This is achieved through interactive and visually compelling dashboards built using Power BI. These dashboards are designed to analyze and track key Year-to-Date (YTD) metrics such as profit, quantity, profit margin, and sales trends.
+
+Using data sourced from the e-commerce platform, the dashboard enables stakeholders to make informed decisions, identify growth opportunities, and evaluate the effectiveness of marketing campaigns.
+
 
 Power BI
+
 Power Query
-Dax Query
-Data modeling
+
+DAX
+
+Data Modeling
